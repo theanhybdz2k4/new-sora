@@ -1,0 +1,4 @@
+2026/01/16-01:56:40.444 2850 Creating DB C:\Projects\Tool Auto Veo AI\new\Sora157_source\data\profiles\default\Default\Local Storage\leveldb since it was missing.
+2026/01/16-01:56:40.470 2850 Reusing MANIFEST C:\Projects\Tool Auto Veo AI\new\Sora157_source\data\profiles\default\Default\Local Storage\leveldb/MANIFEST-000001
+2026/01/16-01:56:53.819 e18 Level-0 table #5: started
+2026/01/16-01:56:53.840 e18 Level-0 table #5: 736360 bytes OK

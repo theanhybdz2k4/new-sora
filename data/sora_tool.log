@@ -1,0 +1,1440 @@
+2026-01-16 01:51:04,187 - INFO - Đã tạo template: C:/Users/Admin/Downloads/sora_template.xlsx
+2026-01-16 01:55:53,780 - INFO - Đã load file: C:/Users/Admin/Downloads/sora_template.xlsx
+2026-01-16 01:55:53,780 - INFO - Tìm thấy 1 task(s)
+2026-01-16 01:56:23,192 - INFO - Đã load file: C:/Users/Admin/Downloads/sora_template.xlsx
+2026-01-16 01:56:23,193 - INFO - Tìm thấy 1 task(s)
+2026-01-16 01:56:25,175 - INFO - Đã load file: C:/Users/Admin/Downloads/sora_template.xlsx
+2026-01-16 01:56:25,175 - INFO - Tìm thấy 1 task(s)
+2026-01-16 01:56:34,571 - INFO - Đang khởi tạo browser với profile: default
+2026-01-16 01:56:37,893 - INFO - patching driver executable C:\Users\Admin\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+2026-01-16 01:56:41,811 - INFO - Khởi tạo browser thành công
+2026-01-16 01:56:41,811 - INFO - Đang điều hướng đến: https://sora.com
+2026-01-16 01:56:53,448 - WARNING - Không tìm thấy element: textarea[placeholder*='prompt'], textarea[placeholder*='Describe'], div[contenteditable='true']
+2026-01-16 01:56:53,448 - INFO - Đang chờ đăng nhập...
+2026-01-16 01:56:55,450 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=143.0.7499.193)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee6dd
+	0xedd99e
+	0xefc4e6
+	0xf621d8
+	0xf7d44c
+	0xf5b2e6
+	0xf2d321
+	0xf2e1d4
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0x1109518
+	0x11096d9
+	0x10f3a68
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:56:59,455 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:03,458 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:07,461 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:11,463 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:15,465 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:19,467 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:23,469 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:27,470 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:31,472 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:35,474 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:39,475 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:43,477 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:47,479 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:51,482 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:55,484 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:57:59,486 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:03,488 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:07,490 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:11,492 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:15,495 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:19,496 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:23,498 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:27,500 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:31,502 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:35,504 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:39,507 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:43,509 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:47,514 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:51,518 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:55,519 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:58:59,522 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:03,525 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:07,529 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:11,530 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:15,534 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:19,538 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:23,541 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:27,542 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:31,546 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:35,551 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:39,552 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:43,555 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:47,557 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:51,559 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:55,560 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 01:59:59,563 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:03,567 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:07,570 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:11,572 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:15,574 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:19,577 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:23,578 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:27,580 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:31,582 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:35,584 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
+2026-01-16 02:00:39,586 - ERROR - Lỗi kiểm tra đăng nhập: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x1101213
+	0x1101254
+	0xeee52b
+	0xf2c635
+	0xf5b3a6
+	0xf56ed1
+	0xf56846
+	0xebebfd
+	0xebf18e
+	0xebf65d
+	0x1355254
+	0x135080b
+	0x136d0ea
+	0x111b118
+	0x112311d
+	0xebe7ab
+	0xebddf7
+	0x14a16ef
+	0x76ba5d49
+	0x77ded5db
+	0x77ded561
+
