@@ -556,12 +556,13 @@ class SoraAutomation:
             logger.error(f"Lỗi download từ URL: {e}")
             return False
     
-    def process_task(self, task: TaskRow) -> Tuple[bool, str]:
+    def process_task(self, task: TaskRow, image_folder: str = "") -> Tuple[bool, str]:
         """
         Xử lý một task
         
         Args:
             task: TaskRow object
+            image_folder: Thư mục chứa ảnh
             
         Returns:
             Tuple (success, message)
@@ -569,12 +570,12 @@ class SoraAutomation:
         logger.info(f"=== Bắt đầu xử lý task dòng {task.row_number} ===")
         logger.info(f"Prompt: {task.prompt[:100]}...")
         if task.image_path:
-            logger.info(f"Image: {task.image_path}")
+            logger.info(f"Images: {task.image_path}")
         
         try:
             # Upload ảnh nếu có
             if task.image_path:
-                if not self.upload_image(task.image_path):
+                if not self.upload_images(task.image_path, image_folder):
                     logger.warning("Đã bỏ qua upload ảnh, tiếp tục với prompt")
             
             # Nhập prompt

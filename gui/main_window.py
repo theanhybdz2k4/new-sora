@@ -53,11 +53,12 @@ class WorkerThread(QThread):
     finished = pyqtSignal()
     login_required = pyqtSignal()
     
-    def __init__(self, tasks: list, profile_name: str, headless: bool = False):
+    def __init__(self, tasks: list, profile_name: str, headless: bool = False, image_folder: str = ""):
         super().__init__()
         self.tasks = tasks
         self.profile_name = profile_name
         self.headless = headless
+        self.image_folder = image_folder
         self.is_running = True
         self.browser: Optional[BrowserCore] = None
         self.automation: Optional[SoraAutomation] = None
@@ -104,7 +105,7 @@ class WorkerThread(QThread):
                 self.progress.emit(idx + 1, total)
                 self.log_message.emit(f"\n=== Xử lý task {idx + 1}/{total}: Dòng {task.row_number} ===")
                 
-                success, message = self.automation.process_task(task)
+                success, message = self.automation.process_task(task, self.image_folder)
                 
                 self.task_completed.emit(task.row_number, success, message)
                 self.log_message.emit(f"Kết quả: {'✓ Thành công' if success else '✗ Thất bại'} - {message}")
@@ -575,7 +576,8 @@ class MainWindow(QMainWindow):
             self.worker = WorkerThread(
                 tasks=self.tasks,
                 profile_name=self.profile_edit.text(),
-                headless=self.headless_check.isChecked()
+                headless=self.headless_check.isChecked(),
+                image_folder=self.image_folder_edit.text()
             )
             
             self.worker.progress.connect(self.on_progress)
@@ -590,7 +592,8 @@ class MainWindow(QMainWindow):
             # Chế độ multi-browser
             self.pool_manager = ThreadPoolManager(
                 max_workers=num_browsers,
-                headless=self.headless_check.isChecked()
+                headless=self.headless_check.isChecked(),
+                image_folder=self.image_folder_edit.text()
             )
             
             self.pool_manager.log_message.connect(self.log)

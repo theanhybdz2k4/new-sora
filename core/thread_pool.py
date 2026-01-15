@@ -37,10 +37,11 @@ class ThreadPoolManager(QObject):
     all_completed = pyqtSignal()
     login_required = pyqtSignal(str)  # profile_name
     
-    def __init__(self, max_workers: int = 3, headless: bool = False):
+    def __init__(self, max_workers: int = 3, headless: bool = False, image_folder: str = ""):
         super().__init__()
         self.max_workers = max_workers
         self.headless = headless
+        self.image_folder = image_folder
         self.executor: Optional[ThreadPoolExecutor] = None
         self.is_running = True
         self.active_browsers: Dict[str, BrowserCore] = {}
@@ -97,7 +98,7 @@ class ThreadPoolManager(QObject):
             automation.check_and_switch_to_old_sora()
             
             # Xử lý task
-            success, message = automation.process_task(task)
+            success, message = automation.process_task(task, self.image_folder)
             
             return WorkerResult(task, success, message, profile_name)
             
